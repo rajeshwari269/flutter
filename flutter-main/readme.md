@@ -12,7 +12,8 @@ Flutter Documentation: Tutorials, samples, and full API reference
 
 📘 Project Description
 
-This repository contains Flutter Experiments 1–10. Each experiment is designed to teach a specific Flutter concept through small, focused programs.
+This repository contains Flutter Experiments 1–10.
+Each experiment is designed to teach a specific Flutter concept through small, focused programs.
 
 🎯 Goal of This Project
 
@@ -24,7 +25,8 @@ Practice animations, API calls, testing, and debugging
 
 Understand real app development workflows
 
-📚 Experiments Overview 1️⃣ Dart Basics
+📚 Experiments Overview
+1️⃣ Dart Basics
 
 Variables, data types
 
@@ -113,25 +115,3 @@ Dart SDK
 Android Studio / VS Code
 
 Android Emulator, iOS Simulator, or Chrome
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Dart
-100.0%
-Footer
-©
